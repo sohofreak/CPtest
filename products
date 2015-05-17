@@ -1,2 +1,5 @@
-curl -X GET https://cdn.contentful.com/spaces/ba0vz0ayvsw3?access_token=d57301efe4be32e6eb51dee2091a2c1ea5cba5b05cf80f13bc33245ed5020b76
+$ cd your_repo_root/repo_name
+$ git fetch origin
+$ git checkout gh-pages
+
 
